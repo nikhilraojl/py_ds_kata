@@ -1,0 +1,13 @@
+class Queue[T]:
+    def __init__(self) -> None:
+        self.length: int
+        ...
+
+    def enqueue(self, item: T) -> None:
+        ...
+    
+    def deque(self) -> T | None:
+        ...
+    
+    def peek(self) -> T | None:
+        ...

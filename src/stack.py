@@ -1,0 +1,13 @@
+class Stack[T]:
+    def __init__(self) -> None:
+        self.length: int
+        ...
+
+    def push(self, item: T) -> None:
+        ...
+    
+    def pop(self) -> T | None:
+        ...
+    
+    def peek(self) -> T | None:
+        ...

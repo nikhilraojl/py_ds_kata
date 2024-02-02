@@ -1,0 +1,13 @@
+from src.proj_utils.binary_tree_node import BinaryNode
+
+def in_order_traversal(tree: BinaryNode[int]) -> list[int]:
+    ...
+
+def post_order_traversal(tree: BinaryNode[int]) -> list[int]:
+    ...
+
+def pre_order_traversal(tree: BinaryNode[int]) -> list[int]:
+    ...
+
+def breadth_first_traversal(tree: BinaryNode[int]) -> list[int]:
+    ...

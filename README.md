@@ -28,3 +28,15 @@ python -m unittest -k linear
 - Stack
 - Bubble sort
 - Quick sort
+- Singly linked list
+- Doubly linked list
+- Binary trees
+  - Traversal
+    - pre-order
+    - in-order (depth-first)
+    - pre-order
+    - breadth-first
+  - Search
+    - depth-first
+    - breadth-first
+    
